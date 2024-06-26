@@ -1,0 +1,26 @@
+/* Initial state for entering element */
+.fade-enter {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  
+  /* Active state for entering element */
+  .fade-enter-active {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 300ms, transform 300ms;
+  }
+  
+  /* Initial state for exiting element */
+  .fade-exit {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  /* Active state for exiting element */
+  .fade-exit-active {
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: opacity 300ms, transform 300ms;
+  }
+  
