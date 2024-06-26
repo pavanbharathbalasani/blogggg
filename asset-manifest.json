@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pavanbharathbalasani/blogggg.git/static/css/main.6d31178c.css",
+    "main.js": "/pavanbharathbalasani/blogggg.git/static/js/main.f9139bba.js",
+    "static/js/453.e56fee0f.chunk.js": "/pavanbharathbalasani/blogggg.git/static/js/453.e56fee0f.chunk.js",
+    "index.html": "/pavanbharathbalasani/blogggg.git/index.html",
+    "main.6d31178c.css.map": "/pavanbharathbalasani/blogggg.git/static/css/main.6d31178c.css.map",
+    "main.f9139bba.js.map": "/pavanbharathbalasani/blogggg.git/static/js/main.f9139bba.js.map",
+    "453.e56fee0f.chunk.js.map": "/pavanbharathbalasani/blogggg.git/static/js/453.e56fee0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d31178c.css",
+    "static/js/main.f9139bba.js"
+  ]
+}
